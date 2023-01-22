@@ -1,0 +1,115 @@
+@charset "UTF-8";
+.image {
+    display: block;
+    margin-top: 30px;
+    margin-left: -157px;
+    width: 2050px;
+    height: 400px;
+}
+
+.image_cof {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    box-shadow:  10px 10px rgb(73, 72, 72);
+
+}
+
+
+body {
+    background-color: rgb(29, 28, 28);
+}
+
+.text {
+    margin: 20px;
+    text-align: justify;
+    padding-left: 404px;
+    padding-right: 404px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+h2 {
+    margin: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.change {
+    margin-top: 100px;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+}
+
+.tadle {
+    width: 50%;
+    vertical-align: top;
+}
+
+.text {
+    padding-left: 150px;
+    padding-right: 400px;
+    font-family: serif;
+    color: white;
+    font-size: 30px;
+    text-align: left;
+}
+
+.text_2 {
+    font-family: serif;
+    padding-right: 350px;
+    color: white;
+    font-size: 30px;
+    text-align: right;
+}
+
+.text_3 {
+    font-family: serif;
+    color: white;
+    font-size: 30px;
+    text-align: right;  
+}
+
+.img_lage {
+    margin-right: 20px;
+    border: 2px solid white;
+    width: 600px;
+    height: 300px;
+}
+
+.img_chit {
+    margin-right: 20px;
+    border: 2px solid white;
+    width: 600px;
+    height: 300px;
+} 
+
+.img_ver {
+    border: 2px solid white;
+    width: 600px;
+    height: 300px;
+}
+
+
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 0px 2px rgb(59, 58, 58);
+    border: gray;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.blank {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(43, 42, 42);
+    text-decoration: none;
+    user-select: none;
+
+}
